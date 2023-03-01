@@ -17,4 +17,4 @@ COPY . /usr/src/app/
 
 ENV FLASK_APP=main
 
-ENTRYPOINT ["python3", "main.py"]
+ENTRYPOINT ["python3", "tp1.py"]
